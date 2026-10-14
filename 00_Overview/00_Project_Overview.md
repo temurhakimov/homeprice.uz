@@ -260,3 +260,8 @@ AI используется только как **ассистент**: помо
 - Индекс цен Госкомстата, II кв. 2026: https://stat.uz/img/news/press-reliz-rppi-2026-rus_p22861.pdf
 - Joymee: https://the-tech.kz/?p=40738
 - UYSOT: https://digitalbusiness.kz/2025-10-13/ekonomist-pridumal-startap-kotoriy-delaet-rinok-nedvizhimosti-prozrachnim-vot-kak-rabotaet-servis/
+
+## Состояние на 15.10.2026 (для нового чата)
+- Стратегические анализы и решения владельца: `analysis/README.md` (порядок чтения 01–13, ключевые факты, открытые вопросы, статус действий).
+- План этапа 1 и задачи ClickUp: `Stage1_Plan.md`; изменения по итогам анализа: `analysis/11_ClickUp_Change_Plan.md`.
+- Ведущая компания — Bizzone Group (IT Park с 2018 г.); KMT — партнёр с моделями оценки. Отчёт KMT принимают все банки. До свидетельства pd.gov.uz персональные данные не собираются. Команда: Темур Хакимов (руководитель), Эркинов Азизбек (главный программист), Равшан Навруз-зода (директор Bizzone Group, юридические аспекты). Идея расширения на другие страны — `analysis/13_Expansion_Strategy.md`.
